@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="410" viewBox="0 0 490 410" role="img"><defs>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F0E9"/><stop offset="1" stop-color="#EBE0D8"/></linearGradient>
+<linearGradient id="sofaFabric" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#F4E1CB"/><stop offset=".52" stop-color="#E5C9B5"/><stop offset="1" stop-color="#D1AE9E"/></linearGradient>
+<linearGradient id="sofaLight" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFF4E7"/><stop offset=".52" stop-color="#E9D7C8"/><stop offset="1" stop-color="#D8BDAE"/></linearGradient>
+<linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C2ADB8"/><stop offset="1" stop-color="#896F87"/></linearGradient>
+<linearGradient id="couchBase" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DDBAA8"/><stop offset="1" stop-color="#B88E80"/></linearGradient>
+<linearGradient id="rug" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E1D4BF"/><stop offset="1" stop-color="#BEAF9F"/></linearGradient>
+<linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBE9D8"/><stop offset="1" stop-color="#D8BCA8"/></linearGradient>
+<linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B2D5D2"/><stop offset="1" stop-color="#7EADB5"/></linearGradient>
+<pattern id="fabricpattern" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0 9 9M9 0 0 9" stroke="#fff" stroke-width=".5" opacity=".22"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
+<filter id="tinyshadow" x="-.5" y="-.5" width="2" height="2"><feDropShadow dx="1" dy="11" stdDeviation="10" flood-color="#775E64" flood-opacity=".21"/></filter>
+</defs><ellipse cx="245" cy="359" rx="150" ry="27" fill="#7F6C75" opacity=".18" filter="url(#soft)"/>
+<path d="M99 176q0-100 110-109h62q112 6 110 111l-11 92H112Z" fill="#C5B0B8" stroke="#947D8A" stroke-width="4"/>
+<path d="M134 160q-8-60 78-69h50q91 10 79 70l-8 87H145Z" fill="url(#purple)"/>
+<rect x="95" y="248" width="292" height="79" rx="32" fill="#BDA6B3" stroke="#987B8B" stroke-width="4"/>
+<path d="M92 172q-49-5-38 88l14 60q5 17 40 16h33q-5-59-22-119-7-36-27-45Zm293 0q49-5 38 88l-14 60q-5 17-40 16h-33q5-59 22-119 7-36 27-45Z" fill="#B59BA7" stroke="#997F8D" stroke-width="4"/>
+<path d="M122 326h23v35h-23Zm219 0h23v35h-23Z" fill="#625762"/>
+<rect x="166" y="147" width="157" height="106" rx="38" fill="#D9C4CE" opacity=".42"/>
+<path d="M190 155q-12 35 0 70" stroke="#FFFFFF" opacity=".4" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="m423 97 8 20 20 8-20 8-8 20-8-20-20-8 20-8Z" fill="#F4D6BE"/></svg>

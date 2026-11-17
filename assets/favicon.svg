@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img"><defs>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F0E9"/><stop offset="1" stop-color="#EBE0D8"/></linearGradient>
+<linearGradient id="sofaFabric" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#F4E1CB"/><stop offset=".52" stop-color="#E5C9B5"/><stop offset="1" stop-color="#D1AE9E"/></linearGradient>
+<linearGradient id="sofaLight" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFF4E7"/><stop offset=".52" stop-color="#E9D7C8"/><stop offset="1" stop-color="#D8BDAE"/></linearGradient>
+<linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C2ADB8"/><stop offset="1" stop-color="#896F87"/></linearGradient>
+<linearGradient id="couchBase" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DDBAA8"/><stop offset="1" stop-color="#B88E80"/></linearGradient>
+<linearGradient id="rug" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E1D4BF"/><stop offset="1" stop-color="#BEAF9F"/></linearGradient>
+<linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBE9D8"/><stop offset="1" stop-color="#D8BCA8"/></linearGradient>
+<linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B2D5D2"/><stop offset="1" stop-color="#7EADB5"/></linearGradient>
+<pattern id="fabricpattern" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0 9 9M9 0 0 9" stroke="#fff" stroke-width=".5" opacity=".22"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
+<filter id="tinyshadow" x="-.5" y="-.5" width="2" height="2"><feDropShadow dx="1" dy="11" stdDeviation="10" flood-color="#775E64" flood-opacity=".21"/></filter>
+</defs><rect width="64" height="64" rx="22" fill="#534453"/><path d="M16 15v35m0-18L39 15M16 32l24 18" stroke="#FFF5E9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="49" cy="48" r="6" fill="#F0C3B4"/></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="430" viewBox="0 0 600 430" role="img"><defs>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F0E9"/><stop offset="1" stop-color="#EBE0D8"/></linearGradient>
+<linearGradient id="sofaFabric" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#F4E1CB"/><stop offset=".52" stop-color="#E5C9B5"/><stop offset="1" stop-color="#D1AE9E"/></linearGradient>
+<linearGradient id="sofaLight" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFF4E7"/><stop offset=".52" stop-color="#E9D7C8"/><stop offset="1" stop-color="#D8BDAE"/></linearGradient>
+<linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C2ADB8"/><stop offset="1" stop-color="#896F87"/></linearGradient>
+<linearGradient id="couchBase" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DDBAA8"/><stop offset="1" stop-color="#B88E80"/></linearGradient>
+<linearGradient id="rug" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E1D4BF"/><stop offset="1" stop-color="#BEAF9F"/></linearGradient>
+<linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBE9D8"/><stop offset="1" stop-color="#D8BCA8"/></linearGradient>
+<linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B2D5D2"/><stop offset="1" stop-color="#7EADB5"/></linearGradient>
+<pattern id="fabricpattern" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0 9 9M9 0 0 9" stroke="#fff" stroke-width=".5" opacity=".22"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
+<filter id="tinyshadow" x="-.5" y="-.5" width="2" height="2"><feDropShadow dx="1" dy="11" stdDeviation="10" flood-color="#775E64" flood-opacity=".21"/></filter>
+</defs><ellipse cx="295" cy="389" rx="270" ry="30" fill="#291B2B" opacity=".23" filter="url(#soft)"/>
+<g transform="translate(71 78)"><path d="M30 60q-30 0-30 36v198q1 40 41 40h301q40-2 42-40V96q-3-36-37-36Z" fill="#E4CDBE" stroke="#BC9C91" stroke-width="4"/><path d="M37 82h304v219H37Z" fill="#F6E4D5"/><path d="M51 93h280v197H51Z" fill="url(#fabricpattern)"/><path d="M65 145h247" stroke="#DDC4B3" stroke-width="8"/><path d="M65 205h247" stroke="#DDC4B3" stroke-width="8"/><path d="M125 82v219M251 82v219" stroke="#DDC4B3" stroke-width="7"/></g>
+<g transform="translate(388 182) rotate(-17)"><rect width="82" height="210" rx="14" fill="#D0DFD8" stroke="#A1B9AB" stroke-width="4"/><rect x="13" y="18" width="56" height="164" rx="9" fill="#F8F3E8"/><path d="M27 35h30M27 60h30M27 85h30M27 110h30M27 135h30" stroke="#9DBCA9" stroke-width="4"/><path d="M25 167h34" stroke="#C9B7AC" stroke-width="5"/></g>
+<path d="m471 77 8 23 23 8-23 8-8 23-8-23-23-8 23-8Z" fill="#EDC6A7"/><circle cx="43" cy="98" r="9" fill="#D3B5C4"/></svg>
